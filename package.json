@@ -1,16 +1,29 @@
 {
-  "name": "waifyhaven",
-  "version": "1.0.0",
+  "name": "waifuhaven-api-teste",
+  "version": "1.0.3",
+  "description": "A client library to fetch images from a specified API using an API key.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["api", "waifu", "haven", "waifyhaven", "waifyhaven-api", "waifyhaven-api-client", "waifyhaven-api-client-typescript", "waifyhaven-api-client-typescript-axios", "waifyhaven-api-client-typescript-axios-ts"],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "keywords": [
+    "image",
+    "api",
+    "client",
+    "nsfw",
+    "sfw"
+  ],
+  "author": "Nazuna",
+  "license": "MIT",
   "dependencies": {
-    "axios": "^1.7.9",
-    "typescript": "^5.7.3"
-  }
+    "axios": "^1.7.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://lNazuna/WaifyHaven/image-api-client.git"
+  },
+  "bugs": {
+    "url": "https://lNazuna/WaifyHaven/image-api-client/issues"
+  },
+  "homepage": "https://lNazuna/WaifyHaven/image-api-client#readme"
 }
