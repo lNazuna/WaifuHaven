@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["api", "waifu", "haven", "waifyhaven", "waifyhaven-api", "waifyhaven-api-client", "waifyhaven-api-client-typescript", "waifyhaven-api-client-typescript-axios", "waifyhaven-api-client-typescript-axios-ts"],
   "author": "",
   "license": "ISC",
   "description": "",
