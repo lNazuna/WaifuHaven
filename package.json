@@ -20,10 +20,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://lNazuna/WaifyHaven/image-api-client.git"
+    "url": "git+https://github.com/lNazuna/WaifyHaven.git"
   },
   "bugs": {
-    "url": "https://lNazuna/WaifyHaven/image-api-client/issues"
+    "url": "https://github.com/lNazuna/WaifyHaven.git/issues"
   },
-  "homepage": "https://lNazuna/WaifyHaven/image-api-client#readme"
+  "homepage": "https://github.com/lNazuna/WaifyHaven.git#readme"
 }
