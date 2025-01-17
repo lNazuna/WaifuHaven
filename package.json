@@ -1,7 +1,7 @@
 {
   "name": "waifuhaven-api-teste",
-  "version": "1.0.3",
-  "description": "A client library to fetch images from a specified API using an API key.",
+  "version": "1.0.0",
+  "description": "A client library to fetch images from a waifu-haven API using an API key.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
