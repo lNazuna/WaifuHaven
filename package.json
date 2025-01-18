@@ -20,10 +20,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lNazuna/WaifyHaven.git"
+    "url": "git+https://github.com/lNazuna/WaifuHaven.git"
   },
   "bugs": {
-    "url": "https://github.com/lNazuna/WaifyHaven.git/issues"
+    "url": "https://github.com/lNazuna/WaifuHaven.git/issues"
   },
-  "homepage": "https://github.com/lNazuna/WaifyHaven.git#readme"
+  "homepage": "https://github.com/lNazuna/WaifuHaven.git#readme"
 }
