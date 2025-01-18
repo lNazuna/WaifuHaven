@@ -1,6 +1,6 @@
 {
-  "name": "waifuhaven-api-teste",
-  "version": "1.0.0",
+  "name": "waifuhaven-api.js",
+  "version": "1.0.1",
   "description": "A client library to fetch images from a waifu-haven API using an API key.",
   "main": "index.js",
   "scripts": {
