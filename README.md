@@ -14,7 +14,7 @@ $ npm install waifuhaven-api.js
 
 ## APIKEY
 
-Discord : [https://discord.gg/GhJHfDm4wb](https://discord.gg/GhJHfDm4wb)
+Discord: [https://discord.gg/GhJHfDm4wb](https://discord.gg/GhJHfDm4wb)
 
 Join discord server and get your apikey with **/apikey create** slash command for free!
 
