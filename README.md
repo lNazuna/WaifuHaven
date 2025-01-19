@@ -12,7 +12,7 @@
 $ npm install waifuhaven-api.js
 ```
 
-# APIKEY
+## APIKEY
 
 Discord : [https://discord.gg/GhJHfDm4wb](https://discord.gg/GhJHfDm4wb)
 
